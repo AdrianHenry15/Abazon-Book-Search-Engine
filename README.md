@@ -1,6 +1,6 @@
 # Book-Search-Engine
 
-## [Link](https://enigmatic-sierra-29588.herokuapp.com/)
+## [Link](https://enigmatic-sierra-29588.herokuapp.com/) to Deployed Application
 
 # Description
 This application allows the user to search for new books to read so that they could keep a list of books to purchase.
